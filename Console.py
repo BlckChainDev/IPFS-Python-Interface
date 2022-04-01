@@ -16,6 +16,7 @@ except sqlite3.OperationalError:
 if 'GENESIS' in onetwo:
     pass
 else:
+    NewItem.NewItem('GENESIS', client, 'None', False)
     Helpers.addItem('doc', 'GENESIS', '0000000000000000000000000000000000000000', 'spacedb')
 
 quit = False
