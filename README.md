@@ -1,6 +1,8 @@
 # IPFS-Python-Interface
-Public Alert I am looking for public contributers to help with this code. Thanks
-This is a console Application to Upload Download And Save All items from IPFS, This project is made by me. Please do not try to interfere with the IPFS upload system or the database save system. Thanks for checking it out. Below are some details to run it
+Public Alert I am looking for public contributers to help with this code. Thanks.
+This is a console Application to Upload Download And Save All items from IPFS, This project is made by me. Please do not try to interfere with the IPFS upload system 
+or the database save system. Thanks for checking it out. Below are some details to run it
+
 To run Please navigate to - 
 ![alt text](https://i.postimg.cc/Yq7SV1bQ/Capture.jpg)
 ______________________________________________________
